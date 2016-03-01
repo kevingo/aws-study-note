@@ -29,5 +29,28 @@ Amazon Web Services Overview
 #### Amazon Glacier
 * Amazon Glacier is optimized for infrequently accessed data where a retrieval time of several hours is suitable.
   
+#### Amazon EBS
+* AZ service.
 
+#### AWS Database Migration Service
+* Supports homogenous migrations such as Oracle to Oracle.
+* Supports heterogeneous migrations between different database platforms, such as Oracle to Amazon Aurora.
 
+#### Amazon DynamoDB
+* Supports both document and key-value data models.
+
+#### Amazon Redshift
+* A fast, fully managed, petabyte-scale data warehouse service that makes it simple and cost-effective to efficiently analyze all your data using your existing business intelligence tools.
+
+#### Amazon Route 53
+* A highly available and scalable Domain Name System (DNS) web service.
+
+#### AWS CodeCommit
+* A fully managed source control service that makes it easy for companies to host secure and highly scalable private Git repositories.
+
+#### AWS Config
+* Provides you with an AWS resource inventory, configuration history, and configuration change notifications to enable security and governance.
+
+#### AWS OpsWorks
+* AWS OpsWorks is a configuration management service that helps you configure and operate applications of all shapes and sizes using `Chef`.
+ 
