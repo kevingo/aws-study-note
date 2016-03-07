@@ -17,4 +17,7 @@ Architecting for the Cloud - AWS Best Practices
       * Load Balancing 
     * Pull Model
       * SQS 
+  * Stateless Components
+    * Store user session in database, ex: dynamodb
+    * 
 
