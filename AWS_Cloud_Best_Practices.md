@@ -19,5 +19,7 @@ Architecting for the Cloud - AWS Best Practices
       * SQS 
   * Stateless Components
     * Store user session in database, ex: dynamodb
-    * 
+ 
+#### Automation
+* 
 
